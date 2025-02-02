@@ -1,0 +1,12 @@
+/test_data_files
+/test_data_files_run_*
+/takehome_quiz2
+/test
+.local.git.out
+.clion.source.upload.marker
+cmake-build-debug
+.idea
+/test_objs
+a.out
+cmake-*
+test_data_files

@@ -1,0 +1,14 @@
+/homes/cs240/public
+cp style_sample.c ~/cs240/hw0
+
+cs240 \
+      hw0
+          \
+           answers
+           style_sample.c
+           style_sample.h
+
+
+absolute path: start from root directory
+relative path: start from current directory
+
